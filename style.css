@@ -1,0 +1,571 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.navbar{
+     height:200px;
+     width:100%;
+     background-color:rgb(121, 49, 49);
+     display:flex;
+     align-items:center;
+  }   
+  .navbar1{
+        color:white;
+        font-size:30px;
+        margin-left:10px;
+        margin-bottom:100px;
+} 
+          
+  .navbar2{
+      height:180px;
+      width:180px;
+      background-image:url("download\ \(1\).jpg");
+      background-size:cover;
+      border-radius:2%;
+      margin-left:10px;
+      border-radius:10%;
+   } 
+   .navbar3{
+    height:180px;
+    width:180px;
+    background-image:url("download\ \(2\).jpg");
+    background-size:cover;
+    border-radius:2%;
+    margin-left:30px;
+    border-radius:10%;
+ } 
+ .navbar4{
+         width:480px;
+         height:160px;
+         color:white;
+              font-size:35px;
+              margin-left:20px;
+       }     
+  .navbar4:hover{
+         color:rgb(17, 15, 15);
+   } 
+   .navbar5{
+    height:180px;
+    width:180px;
+    background-image:url("download\ \(3\).jpg");
+    background-size:cover;
+    border-radius:2%;
+    border-radius:10%;
+    margin-right:15px;
+ }    
+ .navbar6{
+    height:180px;
+    width:180px;
+    background-image:url("download\ \(4\).jpg");
+    background-size:cover;
+    border-radius:2%;
+    margin-right:10px;
+    border-radius:10%;
+ }   
+  .saharanpur{
+           text-align:center;  
+  }
+  .glocalimage{
+       height:80px;
+         width:240px;
+       background-image:url("download\ \(5\).jpg");
+       background-size:cover;
+       border-radius:10%;
+       margin-left:100px;
+       border-radius:10%;
+}
+.navbar7{
+         width:100%;
+         height:45px;
+         background-color:rgb(7, 13, 7);
+        color:rgb(235, 227, 227);
+       font-size:30px;
+       display:flex;
+       justify-content:space-evenly;
+       align-items:center;
+   }    
+  .navbar8{
+          background-image:url("glocal\ university\ image.jpg");
+          height:400px;
+          width:100%;
+          background-repeat:no-repeat;
+          background-size:cover;
+  }
+ 
+    .nav7hover{
+          height:38px;
+          display:flex;
+      }  
+    
+  .nav7hover:hover{
+           border:2px white solid;
+  }
+  .navbar9{
+   width:100%;
+   height:200px;
+   background-color:rgb(16, 16, 16);
+   display:flex;
+   
+}
+.navbar9cont{
+   height:200px;
+        display:flex;
+        flex-direction:column;
+        justify-content:space-evenly;
+       color:rgb(14, 211, 37);
+       font-size:20px;
+       margin-left:20px;
+  }
+  .navbarcont9sec{
+   height:200px;
+        display:flex;
+        flex-direction:column;
+        justify-content:space-evenly;
+       color:rgb(14, 211, 37);
+       font-size:20px;
+       margin-left:20px;
+  }
+ .navbar10{
+            height:100px;
+            width:500px;
+            color:white;
+            font-size:40px;
+               margin-left:60px;
+               margin-top:60px;
+           } 
+          
+          .nav10animation{
+               animation-name:nav10animation;
+                color:tranparent;
+                animation-duration:0.5s;
+                animation-iteration-count:infinite;
+          }
+          @keyframes nav10animation{
+                 0%{
+                    color:white;
+                    opacity:1;
+                 }
+                 25%{
+                     color:green;
+                    opacity:0.3;
+                 }
+                 50%{
+                     color:yellow;
+                    opacity:0.6;
+                 }
+                 75%{
+                     color:red;
+                    opacity:0.8;
+                 }
+                 100%{
+                      color:pink;
+                      opacity:1;
+                 }
+          }
+     .navbar11{
+            font-size:30px;
+            margin-top:30px;
+     }
+     .contact{
+          color:transparent;
+          font-size:35px;
+          margin-top:10px;
+          display:flex;
+          flex-direction:column;
+        
+   .box{
+          animation-name:contact;
+          animation-duration:3s;
+         animation-iteration-count:infinite; 
+         animation-fill-mode:forward;
+         
+        }   
+   }    
+   
+     
+   .iconcont{
+        color:green;
+        margin-top:40px;
+        display:flex;
+        margin-left:50px;
+        color:rgb(8, 8, 118);
+         background-color:white; 
+     }  
+     
+  .secondicon{
+      display:flex;
+      margin-left:20px;
+      color:rgb(12, 12, 231);
+   } 
+  
+   .thirdicon{
+      color:green;
+      margin-left:20px;
+      display:flex;
+  }
+ .fourthicon{
+       display:flex;
+      color:rgb(150, 44, 44);
+      margin-left:20px;
+  }
+ 
+.fifthicon{
+       color:rgb(4, 4, 246);
+       margin-left:20px;
+}
+@keyframes contact{
+     0%{
+          color:white;
+          opacity:0.0;
+     }
+     25%{
+            color:white;
+            opacity:0.3;
+     }
+     50%{
+            
+     }
+     75%{
+           color:white;
+           opacity:0.7;
+     }
+     100%{
+          color:white;
+          opacity:1;
+     }
+}
+.content11{
+        height:100px;
+        width:100%;
+        background-color:white;
+            opacity:0.8;
+     }
+           
+         
+      
+          
+  .sukanya{
+             width:100%;
+             height:20px;
+              animation-name:sukanya;
+             animation-duration:2.5s;
+           animation-iteration-count:infinite; 
+              text-align:center;
+              font-size:80px;
+              animation-timing-function:linear;
+              position: relative;
+          }     
+     
+                  
+      @keyframes sukanya{
+           0%{
+               left:-600px;
+           }
+           100%{
+               left:1000px;
+           }
+      }
+     
+          
+  .navbar12{
+       height:300px;
+       width:100%;
+       background-color:rgb(125, 125, 198);
+       opacity:0.8;
+       display:flex;
+  }
+.navimg1{
+        
+         height:300px;
+         width:300px;
+}
+ .img1{
+     height:300px;
+     width:400px;
+      background-color:white;
+     animation-name:roll;
+     animation-duration:1s;
+       animation-iteration-count: infinite;
+        text-align:center;
+        border-radius:10%;
+        font-size:30px;
+        color:black;
+        font-weight:bold;
+        margin-top:2px;
+    }   
+    
+ @keyframes roll{
+            0%{
+               left:-400px;
+               top:0px;
+              
+           }  
+           100%{
+                 left:300px;
+                 top:0px;
+                
+           }  
+}    
+
+.navimg2{
+     text-align:center;
+     border-radius:10%;
+     font-size:30px;
+     color:black;
+     font-weight:bold;
+     height:300px;
+     width:400px;
+     animation-name:img2;
+     animation-iteration-count:infinite;
+     animation-duration:1s;
+     background-color:white;
+     position: relative;
+  }     
+   .img2{
+     text-align:center;
+     border-radius:10%;
+     font-size:30px;
+     color:black;
+     font-weight:bold;
+    
+     }    
+     @keyframes img2{
+            0%{
+                    left:1600px;
+            }
+            100%{
+                  left:400px;
+            }
+
+     }
+   
+.navbar13{
+     height:350px;
+     width:100%;
+     background-color:rgb(125, 125, 198);
+     opacity:0.8;
+     display:flex;
+    }  
+    
+   .navimg3{
+     position:relative;
+     height:300px;
+     width:300px;
+     margin-top:40px;
+}
+.img1{
+     height:300px;
+     width:400px;
+      background-color:white;
+     animation-name:roll;
+     animation-duration:1s;
+       animation-iteration-count: infinite;
+        text-align:center;
+        border-radius:10%;
+        font-size:30px;
+        color:black;
+        font-weight:bold;
+        position: relative;
+    }  
+    imag3{
+       margin-top:50px;
+    }  
+     .navimg4{
+          text-align:center;
+          border-radius:10%;
+          font-size:30px;
+          color:black;
+          font-weight:bold;
+          position:relative;
+          height:300px;
+          width:400px;
+          animation-name:img2;
+          animation-iteration-count:infinite;
+          animation-duration:1s;
+          background-color:white;
+             margin-top:40px;
+     }
+    .nav14{
+       height:600px;
+       width:100%;
+    }
+     #navbar14{
+         width:100%;
+        height:600px;
+        border:2px black solid;
+        color:blue;
+        position:relative;
+        top:00px;
+        left:-1300px;
+        font-family:verdana;
+        font-size:25px;
+        text-transform:capitalize;
+        padding-left:5px;
+        padding-right:5px;
+        font-style:italic;
+        font-weight:bold;
+     }   
+   .navbar15{
+      height:300px;
+      width:100%;
+     background-color:black;
+      color:white;
+       margin-top:2px;
+      font-size:120px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      position:relative;
+   } 
+  .navbar15anim{
+       color:black;
+       width:600px;
+       height:120px;
+       animation-name:hiding;
+       animation-duration:1s;
+       animation-iteration-count:infinite;
+     }  
+     @keyframes hiding{
+       0%{
+          color:white;
+          opacity:0;
+       }
+       25%{
+          color:white;
+          opacity:0.1;
+       }
+       50%{
+          color:white;
+          opacity:0.2;
+       }
+       75%{
+          color:white;
+          opacity:0.3;
+       }
+       100%{
+          color:white;
+          opacity:1;
+       }
+ }      
+ #navbar15img{
+       position:absolute;
+       left:-300px;
+       top:0px;
+        height:300px;
+        width:300px;
+       border-radius:2%;
+       background-image:url("download\ \(1\).jpg");
+       background-size:cover;
+       border-radius:3%;
+     }  
+   #navbar15img:hover{
+           border:4px white solid;
+
+   }
+   .nav15{
+        height:740px;
+        width:100%;
+        position: relative;
+   }
+    
+ .nav15top{
+        height:60px;
+        width:260px;
+        font-size:50px;
+        margin-left:20px;
+        color:black;
+ }
+  
+ .nav15top2{
+     height:340px;
+ }
+ .nav15img1{
+        width:340px;
+        height:335px;
+        background-image:url("download\ \(1\).jpg");
+        background-size:cover;
+        border-radius:5%;
+        position:absolute;
+        left:-400px;
+        float:left;
+ }
+ .nav15img1:hover{
+       border:4px black solid;
+ }
+ .nav15img2{
+   width:340px;
+   height:335px;
+   background-image:url("download\ \(2\).jpg");
+   background-size:cover;
+   border-radius:5%;
+   position:absolute;
+   left:-800px;
+   float:left;
+}
+.nav15img2:hover{
+     border:4px black solid;
+}
+.nav15img3{
+   width:340px;
+   height:335px;
+   background-image:url("download\ \(2\).jpg");
+   background-size:cover;
+   border-radius:5%;
+   position:absolute;
+   left:-800px;
+   float:left;
+}
+.nav15img3:hover{
+      border:4px black solid;
+}
+.nav15top3{
+   height:340px;
+}
+.nav15img3-1{
+      width:340px;
+      height:335px;
+      background-image:url("download\ \(4\).jpg");
+      background-size:cover;
+      border-radius:5%;
+      position:absolute;
+      left:-400px;
+      float:left;
+}
+.nav15img3-1:hover{
+     border:4px black solid;
+}
+.nav15img3-2{
+ width:340px;
+ height:335px;
+ background-image:url("download\ \(8\).jpg");
+ background-size:cover;
+ border-radius:5%;
+ position:absolute;
+ left:-800px;
+ float:left;
+}
+.nav15img3-2:hover{
+   border:4px black solid;
+}
+.nav15img3-3{
+ width:340px;
+ height:335px;
+ background-image:url("download\ \(6\).jpg");
+ background-size:cover;
+ border-radius:5%;
+ position:absolute;
+ left:-800px;
+ float:left;
+}
+.nav15img3-3:hover{
+    border:4px black solid;
+}
+
+      
+
+
+          
+  
+
+

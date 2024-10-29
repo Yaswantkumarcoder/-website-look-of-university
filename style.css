@@ -20,7 +20,7 @@
   .navbar2{
       height:180px;
       width:180px;
-      background-image:url("download\ \(1\).jpg");
+      background-image:url("images/download\ \(1\).jpg");
       background-size:cover;
       border-radius:2%;
       margin-left:10px;
@@ -29,7 +29,7 @@
    .navbar3{
     height:180px;
     width:180px;
-    background-image:url("download\ \(2\).jpg");
+    background-image:url("images/download\ \(2\).jpg");
     background-size:cover;
     border-radius:2%;
     margin-left:30px;
@@ -48,7 +48,7 @@
    .navbar5{
     height:180px;
     width:180px;
-    background-image:url("download\ \(3\).jpg");
+    background-image:url("images/download\ \(3\).jpg");
     background-size:cover;
     border-radius:2%;
     border-radius:10%;
@@ -57,7 +57,7 @@
  .navbar6{
     height:180px;
     width:180px;
-    background-image:url("download\ \(4\).jpg");
+    background-image:url("images/download\ \(4\).jpg");
     background-size:cover;
     border-radius:2%;
     margin-right:10px;
@@ -69,7 +69,7 @@
   .glocalimage{
        height:80px;
          width:240px;
-       background-image:url("download\ \(5\).jpg");
+       background-image:url("images/download\ \(5\).jpg");
        background-size:cover;
        border-radius:10%;
        margin-left:100px;
@@ -86,7 +86,7 @@
        align-items:center;
    }    
   .navbar8{
-          background-image:url("glocal\ university\ image.jpg");
+          background-image:url("images/glocal\ university\ image.jpg");
           height:400px;
           width:100%;
           background-repeat:no-repeat;
@@ -483,7 +483,7 @@
  .nav15img1{
         width:340px;
         height:335px;
-        background-image:url("download\ \(1\).jpg");
+        background-image:url("images/download\ \(1\).jpg");
         background-size:cover;
         border-radius:5%;
         position:absolute;
@@ -496,7 +496,7 @@
  .nav15img2{
    width:340px;
    height:335px;
-   background-image:url("download\ \(2\).jpg");
+   background-image:url("images/download\ \(2\).jpg");
    background-size:cover;
    border-radius:5%;
    position:absolute;
@@ -509,7 +509,7 @@
 .nav15img3{
    width:340px;
    height:335px;
-   background-image:url("download\ \(2\).jpg");
+   background-image:url("images/download\ \(2\).jpg");
    background-size:cover;
    border-radius:5%;
    position:absolute;
@@ -525,7 +525,7 @@
 .nav15img3-1{
       width:340px;
       height:335px;
-      background-image:url("download\ \(4\).jpg");
+      background-image:url("images/download\ \(4\).jpg");
       background-size:cover;
       border-radius:5%;
       position:absolute;
@@ -538,7 +538,7 @@
 .nav15img3-2{
  width:340px;
  height:335px;
- background-image:url("download\ \(8\).jpg");
+ background-image:url("images/download\ \(8\).jpg");
  background-size:cover;
  border-radius:5%;
  position:absolute;
@@ -551,7 +551,7 @@
 .nav15img3-3{
  width:340px;
  height:335px;
- background-image:url("download\ \(6\).jpg");
+ background-image:url("images/download\ \(6\).jpg");
  background-size:cover;
  border-radius:5%;
  position:absolute;
